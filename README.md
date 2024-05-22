@@ -9,8 +9,8 @@ In this course, You will practice more labs of Git. This will help you to master
 
 ## Scenarios
 
-|   Index | Name                                               | Difficulty   | URL                                                                       |
-|---------|----------------------------------------------------|--------------|---------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | URL                                                                       |
+|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |     001 | 📖 Git Installation and Configuration              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/24'>Start Lab</a>          |
 |     002 | 📖 Autocorrect Git Commands                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/12700'>Start Lab</a>       |
 |     003 | 📖 Configure Git User Information                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/12712'>Start Lab</a>       |

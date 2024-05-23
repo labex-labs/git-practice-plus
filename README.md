@@ -9,7 +9,7 @@ In this course, You will practice more labs of Git. This will help you to master
 
 ## Scenarios
 
-|   Index | Name                                              | Difficulty   | URL                                                                       |
+|   Index | Name                                              | Difficulty   | Practice                                                                  |
 |---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |     001 | 📖 Git Installation and Configuration              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/24'>Start Lab</a>          |
 |     002 | 📖 Autocorrect Git Commands                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/12700'>Start Lab</a>       |
@@ -173,4 +173,9 @@ In this course, You will practice more labs of Git. This will help you to master
 |     160 | 🎯 Optimize the Local Repository                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/12657'>Start Challenge</a> |
 |     161 | 📖 Delete a Submodule                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/12726'>Start Lab</a>       |
 |     162 | 🎯 Delete a Submodule                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/12640'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 

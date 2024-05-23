@@ -176,6 +176,7 @@ In this course, You will practice more labs of Git. This will help you to master
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 
